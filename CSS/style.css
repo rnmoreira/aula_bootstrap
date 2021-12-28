@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Licorice&display=swap');
 
 nav{
-    background-color: rgb(182, 45, 45);
+    background-color: #2cd4d9;
     padding-left: 40px;
 }
 
@@ -13,17 +13,26 @@ nav{
     background-color: rgb(180, 188, 143);
 }
 
-.quemsomos{
-    padding-top: 15px;
-    padding-bottom: 15px;
+.quemsomos,.parceiros{
+    padding-top: 40px;
+    padding-bottom: 40px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.5em;
     padding-left: 60px;
     padding-right: 60px;
+    color: #6E7076;
+}
+
+.parceiros{
+    background-color: #2cd4d9;
+}
+
+.row{
+    background-color: #2cd4d9;
 }
 
 body {
-    background-color: antiquewhite;
+    background-color: rgb(255, 255, 255);
 }
 
 p{
