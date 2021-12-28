@@ -9,10 +9,6 @@ nav{
     padding-left: 40px;
 }
 
-.container{
-    background-color: rgb(180, 188, 143);
-}
-
 .quemsomos,.parceiros{
     padding-top: 40px;
     padding-bottom: 40px;
@@ -20,7 +16,6 @@ nav{
     font-size: 1.5em;
     padding-left: 60px;
     padding-right: 60px;
-    color: #6E7076;
 }
 
 .parceiros{
@@ -32,7 +27,7 @@ nav{
 }
 
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: #c1b5fc;
 }
 
 p{
